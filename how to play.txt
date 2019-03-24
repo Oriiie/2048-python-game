@@ -1,0 +1,5 @@
+First of all, you need to open this .py file with windows console.
+Then, you'll have to write a direction to move numbers.
+These directions are:
+'up', 'down', 'right', 'left'
+You can quit the game by printing 'stop' instead of one of the directions.
